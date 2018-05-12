@@ -7,19 +7,19 @@ creator:
   authors:
   - agent_name: Binyon, Laurence
     alias: Binyon, Robert Laurence
-    birthdate: &id001 1869
+    birthdate: 1869
     deathdate: 1943
     gutenberg_agent_id: '8532'
     url: http://www.gutenberg.org/2009/agents/8532
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Binyon
   - agent_name: Cripps, Arthur Shearly
-    birthdate: *id001
+    birthdate: 1869
     deathdate: 1952
     gutenberg_agent_id: '8534'
     url: http://www.gutenberg.org/2009/agents/8534
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Shearly_Cripps
   - agent_name: Ghose, Manmohan
-    birthdate: *id001
+    birthdate: 1869
     deathdate: 1924
     gutenberg_agent_id: '8533'
     url: http://www.gutenberg.org/2009/agents/8533
@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8531
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19170#PrimaveraPoems-by-Four-Authors
 gutenberg_issued: '2006-09-04'
 gutenberg_type: Text
 identifiers:
